@@ -42,3 +42,6 @@
 
 # CMake
 cmake-build-debug/
+
+# AutoCp
+.autocp
