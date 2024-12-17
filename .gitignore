@@ -36,3 +36,6 @@
 
 # CPH Judge
 .cph/
+
+# CLion
+.idea/
